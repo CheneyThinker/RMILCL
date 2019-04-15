@@ -12,4 +12,4 @@ CREATE TABLE `lcl` (
   `age` tinyint(3) unsigned NOT NULL DEFAULT '0',
   `sex` bit(1) NOT NULL DEFAULT b'1',
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
